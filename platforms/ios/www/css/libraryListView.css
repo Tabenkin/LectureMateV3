@@ -1,0 +1,30 @@
+#body{
+
+	position: fixed;
+	height: 76%;
+	top: 12%;
+	overflow: auto;
+	width: 100%;
+}
+
+#library-list-view{
+
+	list-style: none;
+	padding-left: 0;
+	width: 100%;
+
+}
+
+.library-list-item-view{
+
+	border-bottom: 1px solid black;
+	width: 100%;
+	display: block;
+
+}
+
+.library-list-item-view p{
+
+	margin-bottom: 0;
+
+}

@@ -1,0 +1,54 @@
+#footer{
+
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	height: 12%;
+
+
+}
+
+#footer-view{
+
+	border-top: 1px solid black;
+
+}
+
+#playback-controls{
+
+	text-align: center;
+	padding: 1% 0;
+
+}
+
+.playback-action-container{
+
+	display: inline-block;
+	width: 32%;
+
+	font-size: 30px
+
+}
+
+#playback-actions{
+
+	padding: 1% 0;
+}
+
+
+#playback-actions-left-button-container, #playback-actions-right-button-container{
+
+	display: inline-block;
+	width: 49%;
+	height: 100%;
+
+
+}
+
+#playback-actions-left-button-container button, #playback-actions-right-button-container button{
+
+	display: block;
+	margin: auto;
+	width: 100%;
+
+}

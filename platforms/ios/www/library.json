@@ -1,0 +1,22 @@
+[
+	{ 
+		name: 'The History of Philosophy Part 1',
+		trackLength: '4:10',
+		lastPlaybackPosition: '3:50',
+		sortOrder: 1
+	},
+
+	{ 
+		name: 'The History of Philosophy Part 3',
+		trackLength: '4:10',
+		lastPlaybackPosition: '3:50',
+		sortOrder: 3
+	},
+
+	{ 
+		name: 'The History of Philosophy Part 2',
+		trackLength: '4:10',
+		lastPlaybackPosition: '3:50',
+		sortOrder: 2
+	},
+]
